@@ -9,31 +9,33 @@
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": false
+      "value" : "AgCh-JAEQ3Eb7thVAo188v6TJNloRWL3Y9R9lkyXCyAU3dbCD49lDstTFPhYGRl1gio5c_DT6CN7E6qY4N6k3WC7MSoi1kH6f5w-WdiHpy99wmQUxQ6VnWLc9D94AxjapIWLGGYPLrzFXW0tGctc4IZ_J_e6a3XiPQWTncsWF1o6KBea6noAtWisquiMVvOcCWuB-aAkA1leO3GUJztIfbkKIrqfS-tQPtPECyqOH-Qdn1Z_Cn4V7btRfcJ1FTvXvWyoWqj1WQeOeuq8N0kGx3f4sijs7m7hnFZ0E8k5HTCbcJn0wC6O2IJpfX1fhD7A4iddqRcT-hfjl8qikXVbl8C7AAAAASxe5qIA"
+
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
       "required": false,
-      "value": ""
+      "value": "5061867384:AAG5n1GAcbk5mIGsp1n0_BJ9B1PtlxENw9o"
     },
     "BOT_USERNAME": {
       "description": "Put Bot Username Without '@' Ex:- Social_music_Bot",
       "required": true,
-      "value": ""
+      "value": "JulieMusicWaliBot"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
       "required": false,
-      "value": ""
+      "value": "10099620"
     },
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": false,
-      "value": ""
+      "value": "898dfba6709677f2214282d4352680e8"
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": false,
-      "value": ""
+      "value": "412094015"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
